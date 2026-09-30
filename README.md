@@ -110,7 +110,7 @@ and comparison method; do not present estimates as verified results. -->
 
 **Suleman**
 
-[![GitHub](https://img.shields.io/badge/GitHub-suleman1608-181717?style=for-the-badge&logo=github)](https://github.com/suleman1608)
+[![GitHub](https://img.shields.io/badge/GitHub-suleman1608-181717?style=for-the-badge&logo=github)](https://github.com/Smulani2004)
 
 ---
 
